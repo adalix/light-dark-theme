@@ -13,12 +13,9 @@ nav {
 	align-items: center;
 	justify-content: space-around;
 	padding: 15px;
-	position: fixed;
-	top: 10px; 
-	left: 63px;
 	width: 90%;
     height: 60px;
-	margin: 0 auto;
+	margin: 50 auto;
 	border-radius: 35px;
 	z-index: 1;
 }
@@ -39,7 +36,8 @@ nav ul {
 
 nav ul li {
 	display: inline-block;
-	margin-right: 20px ;
+	margin: 0 30px ;
+    font-size: 1.1rem;
 }
 
 nav ul li:hover{
